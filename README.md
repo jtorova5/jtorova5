@@ -21,7 +21,7 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 ## 🔥 Streak Stats
 
 <p align="center">
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/README.md?plain=1>
+	<a href="https://github.com/jtorova5/jtorova5/blob/main/README.md?plain=1>
 		<img alt="Jhonatan Toro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jtorova5&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> 🔥If you can dream it, you can do it🔥 </p>
 </p>
