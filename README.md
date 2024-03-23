@@ -14,19 +14,15 @@
 	<a href="https://github.com/jtorova5/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=jtorova5&label=Profile%20Views&color=red&style=for-the-badge"/></a>
 	<a href="https://github.com/jtorova5?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jtorova5"/></a>
   	<a href="https://github.com/jtorova5?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jtorova5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-	
-</p>
-<!--<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
-<!--<img src="https://gpvc.arturio.dev/thenomaniqbal" alt="Profile views" align='right'/> <a href="https://github.com/thenomaniqbal/thenomaniqbal"> </a>-->
-<hr/>
 
 <!-- Introduction -->
 My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living in Medellín. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jtorova5&theme=dark)](https://git.io/streak-stats)
-
+<p align="center">
+	<a href="https://github.com/De/github-readme-streak-stats">
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jhonatan Toro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jtorova5&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> 🔥If you can dream it, you can do it🔥 </p>
 </p>
 
