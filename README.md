@@ -96,7 +96,7 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 <div align="center">
 	<a href="https://github.com/jtorova5" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jhonatantorovasquez" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/jhonatantorovasquez/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/jhonatantorovasquez/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
 	<a href="mailto:jtorova5@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
   
