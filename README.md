@@ -9,7 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Comienzo+deun+sueño"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+into+Software+Development!;Let+me+tell+you+about+me...)](https://git.io/typing-svg)
 </p>
 
 <!-- Social badges section -->
