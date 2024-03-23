@@ -27,9 +27,9 @@
 My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living in Medellín. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
 
 ## 🔥 Streak Stats
-<p align="center">
-	[![GitHub Streak](https://streak-stats.demolab.com?user=jtorova5&theme=dark)](https://git.io/streak-stats)
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jtorova5&theme=dark)](https://git.io/streak-stats)
+
 <p align="center"> 🔥If you can dream it, you can do it🔥 </p>
 </p>
 
