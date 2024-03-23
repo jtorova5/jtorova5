@@ -24,7 +24,7 @@
 <hr/>
 
 <!-- Introduction -->
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/) and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
+My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living in Medellín. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
 
 ## 🔥 Streak Stats
 
