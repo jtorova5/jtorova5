@@ -70,34 +70,14 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 </p>
 
 ---
- 
- <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
-
-## &#x270d; Blog & Writing 📕
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [nomaniqbal.epizy.com](http://nomaniqbal.epizy.com/) as well as on [Hashnode](https://nomaniqbal.hashnode.dev/).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Why Learn Python? Five Reasons to Start Programming With Python in 2022](https://nomaniqbal.hashnode.dev/why-learn-python-five-reasons-to-start-programming-with-python-in-2022)
-- [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
 	<summary>💻 GitHub Profile Stats</summary>
 	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img alt="NomanIqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NomanIqbal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomaniqbal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
+	<a><img alt="Jhonatan Toro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtorova5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
+	<a><img alt="Jonatan Toro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtorova5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
