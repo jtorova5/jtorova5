@@ -40,18 +40,12 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 
 ### 🧰 Frameworks and Libraries
 
-<p>
-	<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-	<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    	<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-	<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-	<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
-    	<a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-E8E8E8?logo=pytorch&logoColor=black"></a>
-	<a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    	<a href="#"><img alt="Asp.net MVC" src="https://img.shields.io/badge/Dot%20Net-21759B?logo=dotnet&logoColor=white">
-	<a href="#"><img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby%20On%20Rails-20232e.svg?logo=rubyonrails&logoColor=white"></a>
-    	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+<p align="center">
+	<a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+	<a><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    	<a><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+	<a><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
+	<a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
