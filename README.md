@@ -7,10 +7,7 @@
 </h1>
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+into+Software+Development!;Let+me+tell+you+about+me...)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+into+Software+Development!;Let+me+tell+you+about+me...)](https://git.io/typing-svg)
 
 <!-- Social badges section -->
 <p align="center">
