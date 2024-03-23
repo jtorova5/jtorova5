@@ -7,7 +7,9 @@
 </h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+into+Software+Development!;Let+me+tell+you+about+me...)](https://git.io/typing-svg)
+<p align="center">
+	<a><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=Let+me+tell+you+about+me...;I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning&center=true&width=380&height=45"></a>
+</p>
 
 <!-- Social badges section -->
 <p align="center">
