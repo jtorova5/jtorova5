@@ -99,19 +99,6 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 	<a href="https://www.instagram.com/jhonatantorovasquez/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
 	<a href="mailto:jtorova5@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
-  
-## :book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/thenomaniqbal/thenomaniqbal/issues/new?template=guestbook-entry.md">here</a>!</p>
-
-<div align="center">
-	<a href="https://git.io/typing-svg">
-		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
-</div>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
-
-	
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
@@ -120,33 +107,5 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Awesome GitHub Profile README: https://github.com/thenomaniqbal/awesome-github-profile-readme -->
 
-
-	
-	
-<!--- WORKING ON IT -->
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-<!--[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-<!--[1.1]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/twitter.png (Twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/linkedin.png (LinkedIn icon without padding)
-[4.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/instagram.png (Instagram icon without padding)
-[5.2]: https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/sololearn.ico (Sololearn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-<!--[1]: https://twitter.com/thenomaniqbal/
-[2]: https://github.com/thenomaniqbal/
-[3]: https://www.linkedin.com/in/thenomaniqbal/
-[4]: https://instagram.com/thenomaniqbal/
-[5]: https://www.sololearn.com/profile/14847321/
-
-[![Twitter][1.1]][1], [![LinkedIn][3.2]][3], [![Instagram][4.2]][4], [![SoloLearn][5.2]][5]. -->
