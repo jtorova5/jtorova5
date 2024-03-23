@@ -83,23 +83,12 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 </details>
 
 <details>
-	<summary>⚡ Top GitHub Directories</summary>
-	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-</details>
-
-<details>
 <summary>💡 Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/thenomaniqbal/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/jtorova5/count.svg">
 </div>
 </details>
-
 
 <!--- ## ✡️ Stargazers 👇
 
