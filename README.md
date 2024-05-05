@@ -11,14 +11,8 @@
 	<a><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=Let+me+tell+you+about+me...;I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning&center=true&width=380&height=45"></a>
 </p>
 
-<!-- Social badges section -->
-<p align="center">
-	<a href="https://github.com/jtorova5/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=jtorova5&label=Profile%20Views&color=red&style=for-the-badge"/></a>
-	<a href="https://github.com/jtorova5?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jtorova5"/></a>
-  	<a href="https://github.com/jtorova5?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jtorova5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
 <!-- Introduction -->
-My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living in Medellín. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
+My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living in Medellín. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 ## 🔥 Streak Stats
 
@@ -43,7 +37,6 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 ### 🧰 Frameworks and Libraries
 
 <p align="center">
-	<a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 	<a><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     	<a><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 	<a><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-%2320232a.svg?logo=scikitlearn&logoColor=%2361DAFB"></a>
@@ -70,15 +63,15 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
     	<a><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 	<a><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
-
 ---
-
 ## &#x1f4c8; Github stats
 
 💻 GitHub Profile Stats
 	<br/>
+ <p align="center">
 	<a><img alt="Jhonatan Toro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtorova5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
 	<a><img alt="Jonatan Toro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtorova5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
+</p>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
