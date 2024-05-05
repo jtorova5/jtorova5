@@ -63,16 +63,13 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
     	<a><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 	<a><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
----
 
 ## 💻 GitHub profile stats 
 
-<div align="center">
  <p align="center">
 	 <a><img alt="Jhonatan Toro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtorova5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
 	<a><img alt="Jonatan Toro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtorova5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
 </p>
-</div>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
