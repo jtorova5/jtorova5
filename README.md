@@ -74,12 +74,6 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-## 💡 Profile visitors
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/jtorova5/count.svg">
-</div>
-
 ## 🙋‍♂️ Let's Connect
 <div align="center">
 	<a href="https://github.com/jtorova5" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
