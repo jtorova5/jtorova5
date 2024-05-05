@@ -64,18 +64,18 @@ My name is Jhonatan Toro and I'm a Software Developer. I'm from Colombia, living
 	<a><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 ---
-## &#x1f4c8; Github stats
 
-💻 GitHub Profile Stats
+## 💻 GitHub profile stats 
 	<br/>
  <p align="center">
-	<a><img alt="Jhonatan Toro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtorova5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
+	 <a><img alt="Jhonatan Toro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jtorova5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
 	<a><img alt="Jonatan Toro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtorova5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
 </p>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
 
-💡 Profile visitors
+## 💡 Profile visitors
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/jtorova5/count.svg">
